@@ -2,7 +2,7 @@
 # colorful! :)
 
 vim="`which vim`"
-path="/usr/share/vim/vimcurrent/macros/less.vim"
+path="/usr/share/vim/vimcurrent/macros/less.sh"
 
 if [ -z $vim ]; then
    echo "Install vim first"
